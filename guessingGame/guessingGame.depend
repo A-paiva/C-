@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585534721 source:c:\users\adnan\onedrive\documentos\0_meus arquivos\1 - cursos\1 - udemy\20 - c programming for beginners - master the c language\guessinggame\guessinggame\guessinggame.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
